@@ -1,0 +1,228 @@
+.group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    width: 1440px;
+    height: 1824px;
+}
+
+.div {
+    position: absolute;
+    top: 1401px;
+    left: 1125px;
+    font-size: 17px;
+    font-family: var(--font-inter);
+    color: #fcfcfc;
+}
+
+.data-science-concepts {
+    position: absolute;
+    top: 622px;
+    left: 113px;
+    line-height: 125%;
+    white-space: pre-wrap;
+}
+
+.statistical-analysis-and {
+    position: absolute;
+    top: 12px;
+    left: calc(50% - 677.5px);
+    font-size: var(--font-size-17xl);
+    line-height: 125%;
+    display: inline-block;
+    font-family: var(--font-roboto-mono);
+    color: #07152f;
+    width: 1018px;
+    height: 75px;
+}
+
+.group-item {
+    position: absolute;
+    top: 0;
+    left: 191px;
+    width: 1164px;
+    height: 502px;
+}
+
+.what-you-will {
+    position: absolute;
+    top: 546px;
+    left: 55px;
+    font-size: var(--font-size-17xl);
+    line-height: 125%;
+}
+
+.emoji {
+    position: relative;
+    width: 60px;
+    height: 60px;
+}
+
+.degrande-action-stickers {
+    position: relative;
+    width: 45px;
+    height: 45px;
+}
+
+.data-science-concepts1 {
+    position: absolute;
+    top: 0;
+    left: 59px;
+    line-height: 125%;
+    white-space: pre-wrap;
+}
+
+.data-science-concepts-parent {
+    position: absolute;
+    top: 690px;
+    left: 55px;
+    width: 392px;
+    height: 62px;
+}
+
+.data-science-concepts-container,
+.data-science-concepts-group,
+.group-inner {
+    position: absolute;
+    top: 617px;
+    left: 626px;
+    width: 392px;
+    height: 45px;
+}
+
+.data-science-concepts-container,
+.group-inner {
+    top: 698px;
+}
+
+.group-inner {
+    top: 811px;
+    left: 70px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 3px solid #dcd1d1;
+    box-sizing: border-box;
+    width: 1238px;
+    height: 611px;
+}
+
+.rectangle-div {
+    position: absolute;
+    top: 814px;
+    left: 73px;
+    background-color: #f5c362;
+    width: 1232px;
+    height: 79px;
+}
+
+.httpsyoutubex3paomcrtjqs {
+    position: absolute;
+    top: 1395px;
+    left: 509px;
+    width: 460px;
+    height: 21px;
+}
+
+.b,
+.lesson-content {
+    position: absolute;
+    top: 1396px;
+    left: 228px;
+    font-size: var(--font-size-xl);
+    line-height: 125%;
+    color: var(--color-white);
+}
+
+.b {
+    left: 1095px;
+}
+
+.polygon-icon {
+    position: absolute;
+    top: 1360px;
+    left: 203px;
+    width: 13.5px;
+    height: 16.4px;
+    object-fit: contain;
+}
+
+.icon-double-arrow,
+.icon-menu-book {
+    position: absolute;
+    height: 1.51%;
+    width: 1.59%;
+    top: 98.24%;
+    right: 83.73%;
+    bottom: 0.25%;
+    left: 14.69%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+
+.icon-double-arrow {
+    height: 1.9%;
+    width: 2.21%;
+    top: 98.1%;
+    right: 9.37%;
+    bottom: 0;
+    left: 88.41%;
+}
+
+.statistical-analysis-and1 {
+    position: absolute;
+    top: 830px;
+    left: 99px;
+    font-size: var(--font-size-17xl);
+    line-height: 125%;
+    color: var(--color-white);
+    white-space: pre-wrap;
+}
+
+.group-wrapper,
+.parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1355px;
+    height: 1422px;
+}
+
+.group-wrapper {
+    top: 160px;
+    left: 23px;
+}
+
+.image-1-icon,
+.rectangle-icon,
+.rectangle-parent {
+    position: absolute;
+    top: 387px;
+    left: 0;
+    width: 1440px;
+    height: 1439.5px;
+}
+
+.image-1-icon,
+.rectangle-parent {
+    top: 0;
+    height: 1826.5px;
+}
+
+.image-1-icon {
+    left: 1012px;
+    width: 414px;
+    height: 384px;
+    object-fit: cover;
+}
+
+.group-parent {
+    width: 100%;
+    position: relative;
+    height: 1826.5px;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-gray-100);
+    font-family: var(--font-roboto);
+}
